@@ -5,5 +5,14 @@
     <link>https://github.com/julianjear/cosmic-mac-app/releases/download</link>
     <description>Auto-update feed for Cosmic.</description>
     <language>en</language>
+    <item>
+      <title>Cosmic 0.1.0</title>
+      <pubDate>Tue, 28 Apr 2026 17:02:41 +0000</pubDate>
+      <sparkle:version>2</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/julianjear/cosmic-mac-app/releases/download/v0.1.0/Cosmic-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="q+f4XLAs+Kc+V/5RVoXCmCmP5/90CAUIR85i9Xc3SvqGGjJpN0nDo5kAhf9Uc9lAc04TVKCbtDK2G3qDAIztBw==" length="52120930" />
+    </item>
+
   </channel>
 </rss>
