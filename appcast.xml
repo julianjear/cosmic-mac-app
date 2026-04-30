@@ -37,6 +37,15 @@
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
       <enclosure url="https://github.com/julianjear/cosmic-mac-app/releases/download/v1.0.3/Cosmic-1.0.3.dmg" type="application/octet-stream" sparkle:edSignature="vFpLvf7SirxsSvcj54K/6tL515fKOXcRimE8zH8TuqXQ9osajvlblZdTiaF249BNnmoL8bY2ZQRKJj1eKCwPDg==" length="56239159" />
     </item>
+    <item>
+      <title>Cosmic 1.0.6</title>
+      <pubDate>Thu, 30 Apr 2026 01:00:09 +0000</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/julianjear/cosmic-mac-app/releases/download/v1.0.6/Cosmic-1.0.6.dmg" type="application/octet-stream" sparkle:edSignature="04lUMyZmxbZDsUSoYVAGzbLCZNlcqUn0J/oTIQd/CjNqcB1F/eN9b/zSPN35FkmbPcPtEoCI1gSM8HZSOU7RBw==" length="56241249" />
+    </item>
+
 
 
 
